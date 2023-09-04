@@ -1,2 +1,4 @@
 # Course-Recommendation-Engine
-This is a Course Recommendation Repo which contains the course on the paper published on IRCICD 2021 
+In my final undergraduate project, I developed a recommendation system using Hybrid Filtering. This project introduces a hybrid recommendation system that integrates both content-based and collaborative-based filtering strategies. It leverages user profile data and preferences for content-based filtering and considers various parameters, such as domain ratings and domain popularity, for collaborative filtering. The Lasso algorithm was selected as the optimal choice for content-based filtering, while collaborative filtering utilized the K-Nearest Neighbors (KNN) algorithm.
+
+The system combines the results from both filtering methods using a weighted average technique to produce a hybrid recommendation result. I also had the opportunity to present my research at the International Research Conference on IoT, Cloud, and Data Science (IRCICD 21).
